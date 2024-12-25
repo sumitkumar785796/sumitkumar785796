@@ -1,11 +1,5 @@
 # Hi folk, I'm Sumit Kumar 👋
 
-<h1 align="center">
-  <span style="color: #4CAF50; font-size: 48px; font-family: 'Arial', sans-serif; font-weight: bold; text-shadow: 2px 2px 5px rgba(0,0,0,0.5);">
-    Hi folk, I'm Sumit Kumar
-  </span>
-</h1>
-
 ---
 
 ### Languages I Use
